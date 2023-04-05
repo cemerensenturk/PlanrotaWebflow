@@ -4073,7 +4073,7 @@ figcaption {
   }
 
   .home-hero-component {
-    grid-row-gap: 100px;
+    grid-row-gap: 45px;
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
   }
@@ -5268,7 +5268,7 @@ figcaption {
 
   .home-hero-image-item {
     width: 108%;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     padding-bottom: 0px;
   }
 
